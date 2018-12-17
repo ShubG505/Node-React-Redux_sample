@@ -1,4 +1,4 @@
-Assignment on Node.js, React.js and Redux
+Sample Code on Node.js, React.js and Redux
 
 ## Reservation System APP
 
